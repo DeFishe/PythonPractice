@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>476599c7-e77a-4942-b433-d7f1649f88c2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Basic\HelloWorld_Python.py</StartupFile>
+    <StartupFile>Basic\Loops.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,13 +21,16 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Basic\BasicOperators_Python.py" />
-    <Compile Include="Basic\BasicStringOperations_Python.py" />
-    <Compile Include="Basic\Conditions_Python.py" />
-    <Compile Include="Basic\HelloWorld_Python.py" />
-    <Compile Include="Basic\Lists_Python.py" />
-    <Compile Include="Basic\StringFormatting_Python.py" />
-    <Compile Include="Basic\VariablesAndTypes_Python.py" />
+    <Compile Include="Basic\BasicOperators.py" />
+    <Compile Include="Basic\BasicStringOperations.py" />
+    <Compile Include="Basic\Conditions.py" />
+    <Compile Include="Basic\HelloWorld.py" />
+    <Compile Include="Basic\Lists.py" />
+    <Compile Include="Basic\Loops.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Basic\StringFormatting.py" />
+    <Compile Include="Basic\VariablesAndTypes.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Basic\" />
