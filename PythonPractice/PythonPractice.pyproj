@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>476599c7-e77a-4942-b433-d7f1649f88c2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Basic\ClassesAndObjects.py</StartupFile>
+    <StartupFile>Basic\Dictionaries.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -27,6 +27,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Basic\Conditions.py" />
+    <Compile Include="Basic\Dictionaries.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="Basic\Functions.py">
       <SubType>Code</SubType>
     </Compile>
