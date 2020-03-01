@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>476599c7-e77a-4942-b433-d7f1649f88c2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Advanced\ListComprehensions.py</StartupFile>
+    <StartupFile>Advanced\MultipleFunctionArguments.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Advanced\ListComprehensions.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Advanced\MultipleFunctionArguments.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Basic\BasicOperators.py" />
