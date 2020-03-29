@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>476599c7-e77a-4942-b433-d7f1649f88c2</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Advanced\Sets.py</StartupFile>
+    <StartupFile>Advanced\Serialization.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -31,6 +31,9 @@
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Advanced\MultipleFunctionArguments.py">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Advanced\Serialization.py">
       <SubType>Code</SubType>
     </Compile>
     <Compile Include="Advanced\Sets.py">
